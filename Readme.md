@@ -20,6 +20,7 @@ Connect 4 state is represented in "XO-" format for this command line tool. To tr
 For example, the following board can be represented as `O.XO.OXXO.OXX.XO..O.` in the "XO-" format:
 
 |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |   |   |   |   |   |   |   |
 |   |   | O |   |   |   |   |
 |   |   | X | X | X |   |   |
